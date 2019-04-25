@@ -9,3 +9,4 @@ Email:<input type="email" name="mail"/><br>
 <input type="submit" name="submit" value="ok"/>
 </form>
 </html>
+snaihcgausgcbcuhbxgvchgavchsfctshbcsuy
